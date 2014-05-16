@@ -1,0 +1,24 @@
+{
+  "name": "csvToArray",
+  "version": "2.1",
+  "homepage": "https://code.google.com/p/csv-to-array/",
+  "authors": [
+    "Daniel Tillin"
+  ],
+  "description": "Comma seperated values CSV to Array Javascript and jQuery functions",
+  "main": "csvToArray.v2.1.js",
+  "keywords": [
+    "csvToArray",
+    "csv parsing",
+    "validation",
+    "javascript csv reader"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
